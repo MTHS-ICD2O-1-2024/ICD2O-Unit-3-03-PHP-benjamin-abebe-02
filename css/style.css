@@ -1,4 +1,39 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Benjamin Abebe
+* Created on: Feb 2025
 * This file contains the CSS for index.html
 */
+
+
+.mdl-layout__header-row {
+  background-color: rgba(0, 128, 0, 0.732);
+}
+
+body {
+  background-color: silver;
+}
+
+img {
+  float: right;
+  height: 200px;
+  margin: 50px;
+}
+
+.mdl-textfield {
+  width: 300px;
+  display: inline-block;
+  margin: 10px;
+  text-align: left;
+  gap: 10px;
+}
+
+.page-content {
+  margin-left: 3%;
+  width: 50%;
+  text-align: left;
+}
+
+.input-group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
